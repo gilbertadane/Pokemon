@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpclassic/php-shopify": "^1.2",
+        "benmajor/exchange-rates-api": "^4.2"
+    }
+}
